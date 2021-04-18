@@ -49,6 +49,10 @@
   /* border: 1px solid gray; */
 }
 
+.introduction-desc {
+  color: #434343;
+}
+
 .article-img-container {
   width: 30%;
 }
