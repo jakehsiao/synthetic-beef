@@ -17,6 +17,11 @@ const introductions = [
     desc: "With modern science we can create meat that is more delicious, healthierand more affordable than today’s obsolescent animal-derived products.",
     img: "https://images.unsplash.com/photo-1556269923-e4ef51d69638?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1571&q=80",
   },
+  {
+    title: "Sustainable BBQs",
+    desc: "Surprise your friends with a succulent home-grown beef steak!",
+    img: "https://images.unsplash.com/photo-1600891964092-4316c288032e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
+  },
 ];
 
 const articles = [
