@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/synthetic-beef/static/css/main.1eb00916.chunk.css",
-    "main.js": "/synthetic-beef/static/js/main.690a5d65.chunk.js",
-    "main.js.map": "/synthetic-beef/static/js/main.690a5d65.chunk.js.map",
+    "main.css": "/synthetic-beef/static/css/main.4a295d7f.chunk.css",
+    "main.js": "/synthetic-beef/static/js/main.f617a6d9.chunk.js",
+    "main.js.map": "/synthetic-beef/static/js/main.f617a6d9.chunk.js.map",
     "runtime-main.js": "/synthetic-beef/static/js/runtime-main.c9573300.js",
     "runtime-main.js.map": "/synthetic-beef/static/js/runtime-main.c9573300.js.map",
     "static/js/2.e0742a05.chunk.js": "/synthetic-beef/static/js/2.e0742a05.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.75752f4e.chunk.js": "/synthetic-beef/static/js/3.75752f4e.chunk.js",
     "static/js/3.75752f4e.chunk.js.map": "/synthetic-beef/static/js/3.75752f4e.chunk.js.map",
     "index.html": "/synthetic-beef/index.html",
-    "static/css/main.1eb00916.chunk.css.map": "/synthetic-beef/static/css/main.1eb00916.chunk.css.map",
+    "static/css/main.4a295d7f.chunk.css.map": "/synthetic-beef/static/css/main.4a295d7f.chunk.css.map",
     "static/js/2.e0742a05.chunk.js.LICENSE.txt": "/synthetic-beef/static/js/2.e0742a05.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/synthetic-beef/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c9573300.js",
     "static/js/2.e0742a05.chunk.js",
-    "static/css/main.1eb00916.chunk.css",
-    "static/js/main.690a5d65.chunk.js"
+    "static/css/main.4a295d7f.chunk.css",
+    "static/js/main.f617a6d9.chunk.js"
   ]
 }
