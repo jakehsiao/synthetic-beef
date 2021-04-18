@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/synthetic-beef/static/css/main.4a295d7f.chunk.css",
-    "main.js": "/synthetic-beef/static/js/main.f617a6d9.chunk.js",
-    "main.js.map": "/synthetic-beef/static/js/main.f617a6d9.chunk.js.map",
+    "main.js": "/synthetic-beef/static/js/main.2b327555.chunk.js",
+    "main.js.map": "/synthetic-beef/static/js/main.2b327555.chunk.js.map",
     "runtime-main.js": "/synthetic-beef/static/js/runtime-main.c9573300.js",
     "runtime-main.js.map": "/synthetic-beef/static/js/runtime-main.c9573300.js.map",
     "static/js/2.e0742a05.chunk.js": "/synthetic-beef/static/js/2.e0742a05.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c9573300.js",
     "static/js/2.e0742a05.chunk.js",
     "static/css/main.4a295d7f.chunk.css",
-    "static/js/main.f617a6d9.chunk.js"
+    "static/js/main.2b327555.chunk.js"
   ]
 }
