@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Guide for React Learners
+By Hanchi Xiao (@jakehsiao).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[React]() is a modern and elegant way of developing web pages. **If you want to make a website, you should dive into this right now.**
 
-## Available Scripts
+I recently made a hackathon project using React, and here's the [learning log and stories behind that]().
 
-In the project directory, you can run:
+## Why You Should Learn React
+- **The state-of-art and the most elegant way to develop web applications.** It's simply much better than old methods like vanilla javascript or jQuery.
+- **Easy to learn.** It only requires the basic understanding of a programming language. Then you can simple create a new react app, and dive into the development.
+- **Plenty of community developed components ready to use.** You never need to write everything from scratch. Just grab some components developed by skilled developers, put them together, and you got a super fancy professional-looking webpage!
+- **Revolutionary design concepts.** If you do not w
 
-### `yarn start`
+## Prerequisites
+To dive into React, you need to know:
+- **A programming language.** JavaScript is preferred because React is based on it, or languages with similar syntax like C++, Java or C#. You need to know how to use conditions(if statement), loops(for statement), define functions and classes. To learn more, check [codecademy]().
+- **A basic understanding of HTML.** What HTMl pages look like behind the scene, and have a good understanding of "div" and "img" tags, which are used the most. To learn more, check [codecademy]().
+- **A basic understanding of CSS.** How to use CSS to styling HTML pages, simple CSS attributes like width, height, margin, border. Understanding of flexbox pattern is better. To learn more, check [codecademy]().
+- Some **basic functional programming patterns** like function as parameter, map and reduce. It is not mandatory and you will learn it gradually in the learning process. But React itself is based on functional programming so knowing some helps you a lot.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Dive into React
+- The first class of your React learning journey should always be this great [Codecademy Course](). In my view it is the best React learning tutorial so far.
+- Once you know the basic of React, [Create a new React App](), and write something for fun! There are some [learning project suggestions]().
+- Also, the modern way to use React is to use [Hooks]() rather than class components. Try change all your class components to functional ones using hooks, and see the difference! Even there are plenty of hooks to use, knowing useState and useEffect is enough for most of the time.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Rubric of Understanding
+- Able to write a simple web application using Create-React-App. Know how to write reusable components using JSX with Hooks, and arrange them layer by layer.
+- Know how to use CSS to style your webpage. Know how to use flexbox to arrange the components smartly.
+- Know how to fetch API and display the fetched contents.
+- Let all your code follow the [style guide]().
+- Know some best practices of React, like stateful-stateless architechture, and single-source-of-truth state management.
+- Know how to use components that are open source and developed by communities. One of the React's biggest strength is the reusability of components!
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Advanced Learning
+If you have already learned everything above and want to move one step further in the journey of React, here are some advanced topics:
+- 
