@@ -9,7 +9,7 @@ I recently made a hackathon project using React, and here's the [learning log an
 - **The state-of-art and the most elegant way to develop web applications.** It's simply much better than old methods like vanilla javascript or jQuery.
 - **Easy to learn.** It only requires the basic understanding of a programming language. Then you can simple create a new react app, and dive into the development.
 - **Plenty of community developed components ready to use.** You never need to write everything from scratch. Just grab some components developed by skilled developers, put them together, and you got a super fancy professional-looking webpage!
-- **Revolutionary design concepts.** If you do not w
+- **Revolutionary design concepts.** If you don't want to be a front end developer, or even don't want to make web pages, you are still encouraged to learn React. React introduces a new and elegant way to develop user interface. This is revolutionary. Highly modularized components, the functional programming concept that see web application as a mapping from data to web view, the immutable state tree and single source of truth design concept. Learning React would simply  and make you a better developer.
 
 ## Prerequisites
 To dive into React, you need to know:
@@ -33,4 +33,8 @@ To dive into React, you need to know:
 
 ## Advanced Learning
 If you have already learned everything above and want to move one step further in the journey of React, here are some advanced topics:
-- 
+- **Typescript:** One of the biggest shortcomings of Javascript is it doesn't have a type system. A type system is essential for collaboration and robustness. [Typescript]() is such a solution and quite popular around front end developers.
+- **Redux:** When the state tree of your project goes large and quite complex, "useState" hook may no longer meet your needs. [Redux]() is the most popular state management library for React. It also optimizes your code structure so you don't need to pass the functions layer by layer from top to bottom. And don't forget that modern Redux use Hooks as well.
+- **React Router:** Your web application is very likely to need routers, where you access different contents via different url address. [React Router]() is for this.
+- **Ant Design:** You may want your website looks professional even you know nothing about art and UI design. [Ant design]() has a box of ready-to-use pro-looking components that you can simply combine them to make a beautiful website.
+- **NodeJS:** Sometimes only a frontend client cannot meet your needs. You may need a backend to store user data and so on. However, you don't need to learn a new progamming language to develop a backend. You can bring your decent Javascript skills to backend as well. [NodeJS]() is a quite easy to use backend solution and you may use [Express]() to build a simple backend for your application. If that's not enough, try [NestJS]() and [SocketIO]().
