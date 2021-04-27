@@ -1,7 +1,7 @@
 ## Chapter 1: Choice of Project
-At first, I want to contribute to some of my favourate open source projects, like [pandas]() and [scikit-learn]().
+At first, I want to contribute to some of my favourate open source projects, like [pandas](https://pandas.pydata.org/) and [scikit-learn](https://scikit-learn.org/stable/).
 
-The pandas project has a quite specific [contributing guide]() that guide me step by step on how to contributing code to the project. 
+The pandas project has a quite specific [contributing guide](https://pandas.pydata.org/docs/dev/development/contributing.html) that guide me step by step on how to contributing code to the project. 
 
 By following the guideline, first is to find a issue to work on. 
 
@@ -11,13 +11,13 @@ Then I decide to work on issues with "good first issue" at first.
 
 However, most of issues with this tag are already taken by others, and with a great amount of discussions around that.
 
-The [only issue I took]() on pandas is then replied by the maintainer that this issue is already fixed in master branch. 
+The only issue I took successfully on pandas is then replied by the maintainer that this issue is already fixed in master branch. 
 
 Finally, I failed to contribute to pandas.
 
 Then I tried scikit-learn. First find some issues that look easy to work on. I found 2 issues and replied "take" to both of them. 
 
-Then I start following the [contributing guide]() of sklearn to start working on the code base. The contributing guide of sklearn is also quite specific too. 
+Then I start following the [contributing guide](https://scikit-learn.org/dev/developers/contributing.html) of sklearn to start working on the code base. The contributing guide of sklearn is also quite specific too. 
 
 However, I failed to build from source but this step is essential for the development . I searched the error message all over the google, tried all possible methods, but none of them worked. 
 
@@ -30,7 +30,7 @@ It seems like **contributing to open source projects is much harder than I previ
 So next, I will change my goal from contributing open source projects to performing well in a hackathon.
 
 ## Chapter 2: Start with Hackathon
-The hackerathon is called [leading](). The theme this time is **raising awareness**. Develop an application that mention people something important that they were not aware of before.
+The hackerathon is called [Regional Enterprise](https://www.facebook.com/events/497644391398552/). The theme this time is **raising awareness**. Develop an application that mention people something important that they were not aware of before.
 
 The theme is quite challenging. After I took part in as an individual, I was assigned to a team with 2 strangers.
 
@@ -40,9 +40,9 @@ Once the project to be done is confirmed, the role of each member is quickly fig
 
 So what I am going to do is **sharpen my React skill and build pro-looking web application.**
 
-I've learned some React before on [Codecademy](), and to further improve my React skill, I also learned about [Best Practices]() and [Style Guide from Airbnb]().
+I've learned some React before on Codecademy, and to further improve my React skill, I also learned about [Best Practices](https://www.codeinwp.com/blog/react-best-practices/) and [Style Guide from Airbnb](https://github.com/airbnb/javascript/tree/master/react).
 
-To start the development of the client side, first I need to create a new react app, using the most popular tool, [Create React App]().
+To start the development of the client side, first I need to create a new react app, using the most popular tool, [Create React App](https://create-react-app.dev/docs/getting-started/).
 
 However, after an react app is created, it failed to start running.
 
@@ -58,7 +58,7 @@ Then I read the error message again and again carefully, and found that is came 
 
 Then by upgrading the "chokidar" module into version 3, the app works back to normal. So it was all because of version 2 of chokidar! I triaged the bug and solved it on my own.
 
-Then I added this [new issue]() to create-react-app official github repository, asked them, why downgrade "chokidar" from version 3 to version 2 in newer version of create-react-app, and that would cause problems in MacOS.
+Then I added this [new issue](https://github.com/facebook/create-react-app/issues/10844) to create-react-app official github repository, asked them, why downgrade "chokidar" from version 3 to version 2 in newer version of create-react-app, and that would cause problems in MacOS.
 
 Therefore, **when a tough bug comes, and none of the googled methods worked, read the error message carefully, letter by letter,** and may find some hints from it.
 
@@ -67,11 +67,11 @@ After this bug is solved, the development of the web application begins.
 ## Chapter 3: Development of Project
 To develop pro-looking web applications, the easiest way is to use production-ready templates.
 
-First, I tried on [Bootstrap templates](). However, those templates are not compatible with React.
+First, I tried on [Bootstrap templates](https://getbootstrap.com/docs/4.0/examples/). However, those templates are not compatible with React.
 
-Then I tried [Ant Design Landing](), a template library. However, after installed, it was not able to run and some unexpeted error messages are shown, and I did not find any solution for those problems. So I failed to use Ant Design templates.
+Then I tried [Ant Design Landing](https://landing.ant.design/), a template library. However, after installed, it was not able to run and some unexpeted error messages are shown, and I did not find any solution for those problems. So I failed to use Ant Design templates.
 
-After I failed to use Ant Design templates, I reported those error messages on [official repository](). Sometimes reporting an issue is also a way of contributing to open source projects.
+After I failed to use Ant Design templates, I reported those error messages on [official repository](https://github.com/ant-design/ant-design-landing/issues/332). Sometimes reporting an issue is also a way of contributing to open source projects.
 
 After several templating methods failed, I decided to write everything from scratch, without using any templates. To make the website look professional, I googled how to design better web user interface. And here are several tips I found:
 - Use CSS3 Shadows
@@ -88,21 +88,21 @@ First, there must be some proven pattern for ratios of web components, maybe som
 
 Then, I asked a friend who is working on front end development. "Use flex." simply he said.
 
-Therefore, I found some really good css-flexbox tutorials like [css-tricks flex guide]() and [flex frogs](). After learned them, I added flex attributes to every div components, and also some smart css tricks like "martin:auto". **Flex is a really powerful CSS technique, it makes tweaking CSS files much easier than before.**
+Therefore, I found some really good css-flexbox tutorials like [css-tricks flex guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [flex frogs](https://flexboxfroggy.com/). After learned them, I added flex attributes to every div components, and also some smart css tricks like "martin:auto". **Flex is a really powerful CSS technique, it makes tweaking CSS files much easier than before.**
 
-Finally, my part, client side development, has finished, and posted on [github pages](). It is time for other teammates to contribute to this project.
+Finally, my part, client side development, has finished, and posted on [github pages](https://jakehsiao.github.io/synthetic-beef/). It is time for other teammates to contribute to this project.
 
 ## Chapter 4: Contributing and Further Improvements
-We decide to use [this repository]() as the main entry point for our project. All the codes, assets, and data, are shared in this repository, by simply add pull requests.
+We decide to use [this repository](https://github.com/jakehsiao/synthetic-beef) as the main entry point for our project. All the codes, assets, and data, are shared in this repository, by simply add pull requests.
 
-However, one teammate is not familiar with pull request on github. Therefore, I wrote a [contributing guide]() to show other teammates how to add pull requests and contribute to this project step by step.
+However, one teammate is not familiar with pull request on github. Therefore, I wrote a [contributing guide](https://github.com/jakehsiao/synthetic-beef/blob/master/CONTRIBUTING.md) to show other teammates how to add pull requests and contribute to this project step by step.
 
 After 2 full days of development, the hackathon is reaching the deadline. The minimum viable product is already online, however, it is just a MVP, still far from what I expected for this project.
 
 So for sure this project will keep developing and iterating to be better and better, here are some further improvements:
 - Integrate selling pages of synthetic meats from Amazon. This may require the Amazon SDK to integrate selling pages with this web application seamlessly.
-- Add [Typescript](). This can make up for Javascript's shortcomings while greatly improve the robustness of the project.
-- Add [Redux]() when the state tree goes complex. Currently the state system for this project is quite simple but it will go complex in the future. Redux is the most popular state management solution for React. However not now, because currently "useState" hook works really well.
+- Add [Typescript](https://www.typescriptlang.org/). This can make up for Javascript's shortcomings while greatly improve the robustness of the project.
+- Add [Redux](https://redux.js.org/) when the state tree goes complex. Currently the state system for this project is quite simple but it will go complex in the future. Redux is the most popular state management solution for React. However not now, because currently "useState" hook works really well.
 - Add templates. Even I failed to add ant design templates at first, maybe this issue will be fixed in the future and using templates comes available again. I may also try other templating methods that are available in React.
 
 So finally, my understandings of React, Javascript, CSS, and git collaboration have improved a lot in this project.
